@@ -88,10 +88,10 @@ Sou estudante de graduação na UFABC, apaixonado por desenvolvimento de softwar
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
     
-</div>         
-<br/>
+</div> 
 
----
+<br/>
+<br/>
 
 #### Sobre meus Repositórios
 
