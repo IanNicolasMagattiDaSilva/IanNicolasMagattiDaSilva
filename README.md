@@ -89,8 +89,10 @@ Sou estudante de graduação na UFABC, apaixonado por desenvolvimento de softwar
     />
     
 </div>         
+<br/>
 
 ---
+
 #### Sobre meus Repositórios
 
 <p>
