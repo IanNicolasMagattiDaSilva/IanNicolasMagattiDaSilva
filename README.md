@@ -86,4 +86,11 @@ Sou estudante de graduação na UFABC, apaixonado por desenvolvimento de softwar
 ---
 #### Sobre meus Repositórios
 
-![Ian Magatti Status](https://github-readme-stats.vercel.app/api?username=IanNicolasMagattiDaSilva&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanNicolasMagattiDaSilva&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=IanNicolasMagattiDaSilva&show_icons=true" alt="Ian Magatti Status">
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanNicolasMagattiDaSilva&layout=compact" alt="Top Langs">
+</p>
+
