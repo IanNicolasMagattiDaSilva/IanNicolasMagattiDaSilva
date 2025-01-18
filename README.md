@@ -80,6 +80,13 @@ Sou estudante de graduação na UFABC, apaixonado por desenvolvimento de softwar
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
     />
+    <img 
+        align="left"
+        title="Git"
+        width="50px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
     
 </div>         
 
@@ -87,10 +94,17 @@ Sou estudante de graduação na UFABC, apaixonado por desenvolvimento de softwar
 #### Sobre meus Repositórios
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=IanNicolasMagattiDaSilva&show_icons=true" alt="Ian Magatti Status">
+  <img
+  align="left"
+  width="400px"
+  style="padding-right:10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=IanNicolasMagattiDaSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Ian Magatti Status">
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanNicolasMagattiDaSilva&layout=compact" alt="Top Langs">
+  <img 
+  align="left"
+  width="300px"
+  style="padding-right:10px;" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanNicolasMagattiDaSilva&layout=compact&&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Top Langs">
 </p>
-
