@@ -86,4 +86,4 @@ Sou estudante de graduação na UFABC, apaixonado por desenvolvimento de softwar
 ---
 #### Sobre meus Repositórios
 
-![Anurag's Github Stats](https://github.readme.stats.vercel.app/api?username=IanNicolasMagattiDaSilva&show_icons=true)
+![Ian Magatti Status](https://github-readme-stats.vercel.app/api?username=IanNicolasMagattiDaSilva&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanNicolasMagattiDaSilva&layout=compact)
