@@ -2,22 +2,9 @@
 
 **`Desenvolvedor de Software: Back-end, FullStack, GameDev`**
 
-Sou estudante da Universidade Federal do ABC e estou em busca da minha primeira oportunidade como estagiário ou desenvolvedor de software júnior na área de desenvolvimento Back-End/FullStack ou na área de desenvolvimento de jogos. Tenho conhecimentos em programação, metodologias ágeis e desenvolvimentos de projetos. Pretendo utilizar meu conhecimento técnico em projetos desafiadores e inovadores, contribuindo para o sucesso da empresa e meu desenvolvimento profissional.
+Sou estudante de graduação na UFABC, apaixonado por desenvolvimento de software e em busca da minha primeira oportunidade como desenvolvedor Back-End, FullStack ou de jogos. Entusiasta de programação, metodologias ágeis e projetos desafiadores, quero contribuir para soluções inovadoras enquanto me desenvolvo profissionalmente.
 
-<div align="center" style="display: flex; gap: 5px; justify-content: left;">
-  <a href="https://www.linkedin.com/in/ianmagatti" target="_blank" style="text-decoration:none; display:inline-block;">
-    <button style="background-color:#0077b5; color:white; border:none; padding:10px 20px; font-size:16px; border-radius:5px; cursor:pointer; display:flex; align-items:center;">
-      <i class="fab fa-linkedin" style="font-size:20px; margin-right:10px;"></i>
-      LinkedIn
-    </button>
-  </a>
-  <a href="mailto:nicolas.magatti@gmail.com" style="text-decoration:none; display:inline-block;">
-  <button style="background-color:#333; color:white; border:none; padding:10px 20px; font-size:16px; border-radius:5px; cursor:pointer; display:flex; align-items:center;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" style="width:20px; height:20px; margin-right:10px;">
-    Enviar E-mail
-  </button>
-</a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianmagatti) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas.magatti@gmail.com)
 
 ---
 #### Linguagens e Tecnologia
@@ -29,6 +16,13 @@ Sou estudante da Universidade Federal do ABC e estou em busca da minha primeira 
         width="50px"
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    />
+    <img 
+        align="left"
+        title="Pytnon"
+        width="50px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
     />
     <img 
         align="left"
@@ -86,4 +80,10 @@ Sou estudante da Universidade Federal do ABC e estou em busca da minha primeira 
         style="padding-right: 10px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
     />
+    
 </div>         
+
+---
+#### Sobre meus Repositórios
+
+![Anurag's Github Stats](https://github.readme.stats.vercel.app/api?username=IanNicolasMagattiDaSilva&show_icons=true)
